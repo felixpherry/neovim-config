@@ -5,7 +5,7 @@
 vim.g.mapleader = " "
 vim.opt.timeoutlen = 0
 
-vim.opt.mouse = ""
+vim.opt.mouse = "a"
 vim.opt.shellcmdflag = "-ic"
 
 vim.cmd("set expandtab")
